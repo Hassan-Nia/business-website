@@ -1,4 +1,6 @@
-* {
+body {
+  background: red !important;
+}* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -168,4 +170,5 @@ footer {
   text-align: center;
   background: rgba(2, 6, 23, 0.85);
   margin-top: 80px;
+
 }
